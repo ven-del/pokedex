@@ -13,19 +13,17 @@ Uma aplicação web para visualizar informações sobre Pokémon, construída co
 - React 19
 - Vite
 - Tailwind CSS 4
-- HeroUI para componentes de interface
 
 ## Como executar
 
 ```bash
+
 # Instalar dependências
 npm install
 
 # Executar em modo de desenvolvimento
 npm run dev
 
-# Construir para produção
-npm run build
 ```
 
 ## Estrutura do projeto
